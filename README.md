@@ -1,0 +1,1 @@
+Minidi OCR with tesseract.js Nodejs
